@@ -38,7 +38,7 @@
   ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle&logoColor=007396)
   ![PowerBi](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
 
-**Utilidades**
+**Utilities**
 
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 
@@ -47,7 +47,7 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-**Ferramentas de Desenvolvimento**
+**Development Tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
@@ -60,7 +60,7 @@
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Siga-me: </h3> 
+<h3> :earth_americas: &nbsp;Follow-me: </h3> 
 
 [![GitHub André Luis]( https://img.shields.io/github/followers/andrelsbrito?label=follow&style=flat)](https://github.com/AndreLSBrito)
 
