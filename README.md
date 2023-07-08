@@ -6,7 +6,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-andrelsbrito-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrelsbrito/)](https://www.linkedin.com/in/andrelsbrito/) 
 [![Gmail Badge](https://img.shields.io/badge/-andrelsbrito2022@gmail.com-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrelsbrito2022@gmail.com)](mailto:andrelsbrito2022@gmail.com)
-<a href="#" alt="WhatsApp">
+<a href="https://wa.me/5537991277762?text=Oi%2C+Andr%C3%A9%21+tudo+bem%3F+Estava+observando+seu+Github+e+resolvi+entrar+em+contato." alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5537991277762?text=Oi%2C+Andr%C3%A9%21+tudo+bem%3F+Estava+observando+seu+Github+e+resolvi+entrar+em+contato."/></a>
 
 
